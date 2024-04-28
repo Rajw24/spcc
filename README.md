@@ -435,7 +435,7 @@ int main()
 
 2. Input whilw running
 ```
-A->aA|bB|aAB
+aA|bB|aAB
 ```
 3. Steps to run
 ```sh
