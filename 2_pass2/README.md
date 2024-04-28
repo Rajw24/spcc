@@ -56,7 +56,22 @@ LDCH 53
 STCH 57
 END *
 ```
-
+4. littab2.txt
+```
+1 Z 2018
+```
+5. symtab2.txt
+```
+2000 **
+2003 **
+2006 **
+2009 **
+2012 ALPHA
+2018 FIVE
+2021 CHARZ
+2023 C1
+2024 **
+```
 4. Steps to run
 ```sh
 gcc pass2.c -o pass2
