@@ -96,7 +96,11 @@ void main() {
 2. Input while running
 ![alt text](../opr.png)
 
-3. Steps to run
+3. Input string
+```
+i+i*i$
+```
+4. Steps to run
 ```sh
 gcc opr.c -o opr
 ```
