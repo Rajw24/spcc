@@ -72,7 +72,7 @@ END *
 2023 C1
 2024 **
 ```
-4. Steps to run
+6. Steps to run
 ```sh
 gcc pass2.c -o pass2
 ```
