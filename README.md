@@ -396,7 +396,6 @@ ff.exe
 ### Left factoring
 1. leftfact.c
 ```c
-leftfact.c
 #include<stdio.h>
 #include<string.h>
 int main()
@@ -545,7 +544,11 @@ void main() {
 2. Input while running
 ![alt text](/opr.png)
 
-3. Steps to run
+3. input string
+```
+i+i*i$
+```
+4. Steps to run
 ```sh
 gcc opr.c -o opr
 ```
@@ -602,7 +605,7 @@ void main()
     }
     fclose(fp1);
     fclose(fp2);
-    getch();
+    // getch();
   }
 ```
 
