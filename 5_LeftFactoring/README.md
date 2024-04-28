@@ -1,7 +1,6 @@
 ### Left factoring
 1. leftfact.c
 ```c
-leftfact.c
 #include<stdio.h>
 #include<string.h>
 int main()
